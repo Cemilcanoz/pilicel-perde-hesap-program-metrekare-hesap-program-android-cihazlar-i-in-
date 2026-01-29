@@ -1,7 +1,7 @@
 Plicell Hesap
 Plicell Hesap, plicell perde metraj ve fiyat hesaplamalarını hızlı ve hatasız bir şekilde yapmak için geliştirilmiş modern bir Android uygulamasıdır. Bu uygulama, saha çalışanları ve atölyeler için pratik bir çözüm sunar.
 Jetpack Compose ile sıfırdan oluşturulan bu proje, modern Android geliştirme pratiklerini sergilemektedir.
-Ekran Görüntüsü
+
 <img width="411" height="861" alt="image" src="https://github.com/user-attachments/assets/ec9b8e50-1386-4d69-a629-438e7d289671" />
 
 •
